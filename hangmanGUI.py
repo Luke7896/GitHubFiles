@@ -38,7 +38,7 @@ You will attempt to guess the secret word by entering one letter at a time.\n
 You will be allowed 6 incorrect guesses."""}
 
 
-
+ 
     def instruction(self):
         self.messageBox(title = "Instructions", message = self.game[14])
 
